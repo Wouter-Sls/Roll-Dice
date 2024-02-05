@@ -1,7 +1,6 @@
 # Dice roll
 
 ## My first Flutter & Dart project
-Dice roll Flutter project.
 
 This project is a simple dice roll application where I learned the basics of Flutter and Dart.
 
